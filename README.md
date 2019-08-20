@@ -1,1 +1,1 @@
-Le programme reçoit un ensemble de pièces type tetris et sort le plus petit carré possible contenant toutes ces pièces.
+This program takes as an input a set of tetris pieces and print the most little square containing all those pieces.
